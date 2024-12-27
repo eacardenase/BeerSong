@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		208489162D1F4BE700E709B9 /* BeerSong */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BeerSong; sourceTree = BUILT_PRODUCTS_DIR; };
+		208489202D1F4BF000E709B9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,6 +45,7 @@
 		2084890D2D1F4BE700E709B9 = {
 			isa = PBXGroup;
 			children = (
+				208489202D1F4BF000E709B9 /* README.md */,
 				208489182D1F4BE700E709B9 /* BeerSong */,
 				208489172D1F4BE700E709B9 /* Products */,
 			);
